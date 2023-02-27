@@ -1,0 +1,35 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Is kiehl's ultra facial cream good for sensitive skin?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The Kiehl's Ultra Facial Cream is a daily moisturiser suitable for all skin types, including sensitive skin. However, we always recomend conducting a patch test and watch out for any irritation, if any."
+    }
+  },{
+    "@type": "Question",
+    "name": "Does kiehl's ultra facial cream expire?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "We recommend that face creams should be used within three months of opening, however always refer to package instructions for expiry information."
+    }
+  },{
+    "@type": "Question",
+    "name": "Is kiehl's ultra facial cream good for oily skin?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The Kiehl's Ultra Facial Cream Moisturiser with Squalane is a lightweight moisturiser that is suitable for all skin types including oily skin. However, the Kiehl's Ultra Facil Oil-Free Gel Cream is formulated with the specific needs of oily skin in mind and therefore may be more suitable for oily skin."
+    }
+  },{
+    "@type": "Question",
+    "name": "Is kiehl's ultra facial cream safe during pregnancy?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "While all of our skincare products go through rigorous testing and evaluation for your safety, some ingredients that we formulate with may not be recommended for use during pregnancy. With any specific skincare questions or concerns while breastfeeding or pregnant, we always recommend that you consult your doctor."
+    }
+  }]
+}
+</script>
